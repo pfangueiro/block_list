@@ -58,12 +58,10 @@ www.msftncsi.com
 logx.optimizely.com
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
-services.sapo.pt
 mvideo.fuckduokan.com
 cloud.games4all.eu
 basketbuild.com
 safebrowsing.googleapis.com
-star.c10r.facebook.com
 market.xiaomi.com
 api.ad.xiaomi.com
 notice.game.xiaomi.com
