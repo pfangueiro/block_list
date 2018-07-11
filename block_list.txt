@@ -1,3 +1,25 @@
+# — Spotify Ad Block
+media-match.com
+adclick.g.doublecklick.net
+googleads.g.doubleclick.net
+googleadservices.com
+pagead2.googlesyndication.com
+desktop.spotify.com
+pubads.g.doubleclick.net
+audio2.spotify.com
+# — 
+crashdump.spotify.com
+adeventtracker.spotify.com
+log.spotify.com
+analytics.spotify.com
+ads-fa.spotify.com
+audio-ec.spotify.com
+heads-ec.spotify.com
+prod.spotify.map.fastlylb.net
+sto3.spotify.com
+spclient.wg.spotify.com
+upgrade.spotify.com
+# — Spotify Ads Block End
 arena.altitudeplatform.com
 www.googleadservices.com
 vortex-win.data.microsoft.com
